@@ -4,9 +4,6 @@ using ViewModelProject;
 
 namespace WpfApp1
 {
-    /// <summary>
-    /// Interaction logic for MyView.xaml
-    /// </summary>
     public partial class MainView : Window
     {
         private MainViewModel xxx;
